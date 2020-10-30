@@ -1,0 +1,10 @@
+1- Öğrenci isimli ad soyad görevi şubesi olan bir class yazınız
+2- Çalışan isimli ad soyad görevi departmanı olan bir sınıf yazınız.
+3- Yukarıdaki sınıflardan oluşturacağınız 2 adet n3esne için de geçerli
+    olacak kimli belgesi formu oluşturan tek bir metod yazınız.
+
+ 4-Burada öğrenci için sube , Çalışan için departmanı nasıl yazdırırdınız
+
+    3.istekdeki gibi her iki sınıfında çalışacağı bir metodun olabilmesi için,
+    her iki sınıfın das bir üst sınıftan türetilmesi zorunludur.
+    Aksi halde ayrı ayrı 2 metod oluşturmamız gerekecektir.

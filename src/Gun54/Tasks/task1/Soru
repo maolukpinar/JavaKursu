@@ -1,0 +1,9 @@
+
+
+
+Ekteki tasarıma göre gerekli modülleri yazınız
+Sonra bir main metodunda, TeslaCar dan ToyotaPirus tan ve CityBus tan
+birer nesne üretiniz
+
+ürettiğiniz nesneleri bir Arrayliste ekletip, daha sonra bu Arraylist i
+ bir döngü ile calssname lerini ekrana yazdırınız.

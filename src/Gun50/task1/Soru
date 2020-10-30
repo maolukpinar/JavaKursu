@@ -1,0 +1,21 @@
+Bir okulun çakoşanı ve öğrncilerin kayıt altına alındığı bir program yapılmak isteniyor.
+1 - Çalışanların isim, adres, okul, maaş ve üyetipi (Enum: Ogrenci, Calisan) bilgileri vardır.
+2 - Öğrencilerin isim, adres, okul, ücret ve üyetipi(Enum : Ogrenci, Calisan) bilgileri vardır.
+3 - Okulun ise ismi, maxOgrenciSayisi, Öğrencileri ve Çalışanları vardır
+
+
+
+
+// düşünüyorum....
+burada nesnelerin ortak özelliklerini tekrar tekrar yazmamak için, ortak özellikleri aynı olan
+özellikleri bir sınıf yapıp, diğerlerini bundan türetebilirmiyim.
+
+inceleme sonucunda calisan ve öğrencide ortak özelliklerin fazla olduğu gözüktü.
+ozaman kisi isminde bir sınıfta bu ortak özellikleri toplayıp, burada ortak metodları yazıp,
+daha sonra öğrenci ve calisan sınıfın buradan türeterek az kodla yazabilirim.
+
+
+kisi, UyeTipi, Ogrenci, Calisan
+
+şimdi okula geçebiliriz. Okul sınıfı tanımlandı
+Okula öğrenci ve çalışan eklemek için gerekli metodları yazmamız lazım.

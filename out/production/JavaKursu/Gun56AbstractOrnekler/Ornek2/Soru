@@ -1,0 +1,4 @@
+1 - id, isim, vahsi(boolen), dogumTarihi(LocalDate) fieldlearı olan ve yiyeceği,
+yemeMiktari, gunlukUykuSuresi ve sesi isimlerinde abstract metodları,
+toString şeklinde normal metodu ve get ve set leri olan Hayvan isminde bir abstact class yazınız
+2 - Kedi ve kartal şeklinde 2 tane extend alacak normal class yazınız.
